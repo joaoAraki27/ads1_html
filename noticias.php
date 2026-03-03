@@ -70,6 +70,6 @@
 </body>
 
 <footer>
-    Direitos resevados a @Unifev
+    <?php echo date('d/m/Y'); ?>
 </footer>
 </html>
